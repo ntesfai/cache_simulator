@@ -1,0 +1,86 @@
+==============================================
+YOUR NAME
+Set 0 INVL 
+Set 1 INVL 
+Set 2 INVL 
+Set 3 INVL 
+Set 4 INVL 
+Set 5 INVL 
+Set 6 INVL 
+Set 7 INVL 
+Set 8 INVL 
+Set 9 INVL 
+Set 10 INVL 
+Set 11 INVL 
+Set 12 INVL 
+Set 13 INVL 
+Set 14 INVL 
+Set 15 INVL 
+
+Set 0 000B 
+Set 1 000D 
+Set 2 000A 
+Set 3 0000 
+Set 4 000A 
+Set 5 0009 
+Set 6 000B 
+Set 7 000D 
+Set 8 0005 
+Set 9 000E 
+Set 10 0002 
+Set 11 0007 
+Set 12 0008 
+Set 13 000F 
+Set 14 000B 
+Set 15 0005 
+Hits: 34
+
+==============================================
+YOUR NAME
+Set 0 INVL INVL 
+Set 1 INVL INVL 
+Set 2 INVL INVL 
+Set 3 INVL INVL 
+Set 4 INVL INVL 
+Set 5 INVL INVL 
+Set 6 INVL INVL 
+Set 7 INVL INVL 
+
+Set 0 0005 000B 
+Set 1 001A 001D 
+Set 2 0005 0003 
+Set 3 0010 0000 
+Set 4 0014 0008 
+Set 5 001F 0012 
+Set 6 0017 0016 
+Set 7 001A 000E 
+Hits: 35
+
+==============================================
+YOUR NAME
+Set 0 INVL INVL INVL INVL 
+Set 1 INVL INVL INVL INVL 
+Set 2 INVL INVL INVL INVL 
+Set 3 INVL INVL INVL INVL 
+
+Set 0 000A 0011 0029 0016 
+Set 1 0025 003A 003F 0021 
+Set 2 002D 002F 000A 0013 
+Set 3 0000 0020 0035 001D 
+Hits: 27
+
+==============================================
+YOUR NAME
+Set 0 INVL INVL INVL INVL INVL INVL INVL INVL 
+Set 1 INVL INVL INVL INVL INVL INVL INVL INVL 
+
+Set 0 002C 0022 0014 0015 0052 005F 0027 005B 
+Set 1 0001 0041 004A 006B 0042 0059 003B 007E 
+Hits: 32
+
+==============================================
+YOUR NAME
+Set 0 INVL INVL INVL INVL INVL INVL INVL INVL INVL INVL INVL INVL INVL INVL INVL INVL 
+
+Set 0 0044 00B3 0083 004E 00BE 0095 0003 00D7 0077 0085 002A 00FD 0028 00A4 00B6 0058 
+Hits: 31
